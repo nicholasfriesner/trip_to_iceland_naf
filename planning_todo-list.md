@@ -1,5 +1,5 @@
 ## new list
--Other stuff
+- Other stuff
 
 ## todo
 - First thing
